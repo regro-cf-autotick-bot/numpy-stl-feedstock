@@ -1,6 +1,6 @@
 {% set name = "numpy-stl" %}
-{% set version = "2.13.1" %}
-{% set sha256 = "b14ac1c48a87c3ea9752b90fc3bfcd28e2074fe416774ae06a8a4d696f2a000b" %}
+{% set version = "2.14.0" %}
+{% set sha256 = "08b5046a08d3e5816819a6a0c05714282e4a6695bb0bb0decc72f1a10e84af92" %}
 
 package:
   name: {{ name|lower }}
